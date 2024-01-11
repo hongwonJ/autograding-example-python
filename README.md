@@ -26,3 +26,4 @@ Students can install pytest simply with the command: `pip install pytest`
 
 ### Notes
 - pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
+
